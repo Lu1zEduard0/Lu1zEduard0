@@ -1,6 +1,6 @@
-# [Luiz Eduardo] 
+# Oi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Eu sou Luiz Eduardo
 
-Eu sou <strong>Luiz Eduardo</strong>, <strong>, tenho 19 anos. Sou Técnico em Redes de Computadores e entusiasta do conhecimento sobre a área da tecnologia, de modo que ingressei no curso Análise e Desenvolvimento de Sistemas e estou no último período na faculdade.</strong> 👨🏻‍💻 
+ Sou Técnico em Redes de Computadores e entusiasta do conhecimento sobre a área da tecnologia, de modo que ingressei no curso Análise e Desenvolvimento de Sistemas e estou no último período na faculdade.</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Tecnologias como HTML, CSS e JavaScript, mas sempre estou aberto para novas tecnologias e aprendizados!</strong> 
 
