@@ -1,4 +1,4 @@
-# [Seu nome] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# [Luiz Eduardo] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 Eu sou <strong>Luiz Eduardo</strong>, <strong>Meu nome é Luiz Eduardo, tenho 19 anos. Sou Técnico em Redes de Computadores e entusiasta do conhecimento sobre a área da tecnologia, de modo que ingressei no curso Análise e Desenvolvimento de Sistemas e estou no último período na faculdade.</strong> 👨🏻‍💻 
 
@@ -6,7 +6,7 @@ Eu sou <strong>Luiz Eduardo</strong>, <strong>Meu nome é Luiz Eduardo, tenho 19
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/luiz-eduardo-pereira-de-lima/" alt="Gmail">
+  <a href="luiz09edu@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 
   <a href="https://www.linkedin.com/in/luiz-eduardo-pereira-de-lima/" alt="Linkedin">
