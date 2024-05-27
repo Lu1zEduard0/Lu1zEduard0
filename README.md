@@ -1,8 +1,10 @@
 # Oi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Eu sou Luiz Eduardo
 
-Bem-vindo ao meu repositório! Sou um apaixonado por tecnologia, design e inovação, com experiência em Redes de Computadores, Análise e Desenvolvimento de Sistemas, e atualmente cursando uma qualificação em Programação Back-End. Ultimamente estou utilizando Python para criar soluções e automatizar processos. </strong> 👨🏻‍💻 
++4 anos de experiência na área de TI, buscando constantemente aprimorar minhas habilidades. Graduado em Análise e Desenvolvimento de Sistemas, com formação técnica em Redes de Computadores.
 
-- 🚀 No momento, amplifico meus conhecimentos em desenvolvimento Back-End Python, mas sempre estou aberto para novas tecnologias e aprendizados!</strong> 
+Competências técnicas: CSS3, HTML5, Java 8, JavaScript, Linux Server, Microsoft Access, Microsoft SQL Server, Microsoft Server, MySQL, PostgreSQL, Python.
+
+Ferramentas: AWS, Docker, GIT, Google Cloud Platform, JIRA, Microsoft Azure; Trello.
 
 <div align="center">
 
